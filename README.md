@@ -41,7 +41,7 @@
 
 4. **Configure admin user ID**:
 
-    Set the `ADMIN_USER_ID` in the `index.js` file to the Telegram user ID of the admin:
+    Set the `ADMIN_USER_ID` in the `bot.js` file to the Telegram user ID of the admin:
 
     ```javascript
     const ADMIN_USER_ID = 123456789; // Replace with your Telegram user ID
@@ -49,7 +49,7 @@
 
 5. **Set up database connection**:
 
-    If you want to use a MySQL database, update the database configuration in `index.js` with your database credentials:
+    If you want to use a MySQL database, update the database configuration in `bot.js` with your database credentials:
 
     ```javascript
     const db = mysql.createConnection({
