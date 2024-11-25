@@ -97,5 +97,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or suggestions, please contact [tranminhtan4953@gmail.com](mailto:your-email@example.com).
-See any bot chat Telegram: t.me/tanbaycu 
+For any questions or suggestions, please contact [tranminhtan4953@gmail.com](mailto:tranminhtan4953@gmail.com).
