@@ -19,7 +19,7 @@
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/lysandraBars/finance-manager-bot.git
+    git clone https://github.com/tanbaycu/finance-manager-bot.git
     cd finance-manager-bot
     ```
 
